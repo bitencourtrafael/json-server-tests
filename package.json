@@ -3,6 +3,6 @@
     "json-server": "^0.17.4"
   },
   "scripts": {
-    "dev" : "json-server -H 0.0.0.0 -w db.json"
+    "dev" : "node index.js"
   }
 }
